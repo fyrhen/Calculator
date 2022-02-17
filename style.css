@@ -1,0 +1,67 @@
+body {
+    width: 50;
+    height: 80vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgb(0, 0, 0);
+}
+
+input {
+    color: #fff;
+    padding: 17px;
+    outline: none;
+    font-size: 30px;
+    border-radius: 25%;  
+} 
+
+.num {
+    width: 64px;
+    height: 67px;
+}
+
+.text {
+    width: 160px;
+    height: 40px;
+    border-radius: 22px;
+    letter-spacing: 5px;
+    text-align: center;
+    margin-bottom: 12px;
+}
+
+.text1 {
+    width: 64px;
+    height: 67px;
+    border-radius: 50%;
+    text-align: center;
+    margin-bottom: 12px;
+    cursor: pointer;
+}
+
+.main {
+    display: inline-block;
+}
+
+.maincolor {
+    background-color: rgb(22, 22, 22);
+}
+
+.addbtn {
+    background-color: rgb(0, 140, 221);
+}
+
+.subbtn {
+    background-color: rgb(0, 140, 221);
+}
+
+.mulbtn {
+    background-color: rgb(0, 140, 221);
+}
+
+.eqlbtn {
+    background-color: rgb(0, 140, 221);
+}
+
+.divbtn {
+    background-color: rgb(0, 140, 221);
+}
